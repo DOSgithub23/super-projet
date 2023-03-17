@@ -65,7 +65,7 @@ body{
 }
 .header-top-nav ul li{
 	display: inline-block;
-	border-left: 1px solid rgba(85, 85, 85, 0.41);
+	border-left: 1px solid rgba(206, 49, 49, 0.41);
 	float: left;
 }
 .header-top-nav ul li a{
